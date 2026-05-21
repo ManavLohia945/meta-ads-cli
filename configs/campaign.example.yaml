@@ -1,0 +1,29 @@
+# Campaign creation template
+# Copy and rename for each campaign, then run:
+#   meta-ads validate --config configs/your-campaign.yaml
+#   meta-ads create --config configs/your-campaign.yaml --dry-run
+#   meta-ads create --config configs/your-campaign.yaml
+
+campaign:
+  name: "Campaign Name"
+  objective: OUTCOME_TRAFFIC     # OUTCOME_TRAFFIC | OUTCOME_AWARENESS | OUTCOME_LEADS | OUTCOME_SALES
+  status: PAUSED                 # Always start PAUSED — review before activating
+  special_ad_categories: []
+
+ad_set:
+  name: "Ad Set Name"
+  daily_budget: 5000             # In cents — 5000 = $50.00/day
+  age_min: 18
+  age_max: 65
+  genders: [0]                   # 0=all, 1=male, 2=female
+  countries: ["IN"]              # ISO country codes
+  platforms: ["facebook", "instagram"]
+  optimization_goal: LINK_CLICKS
+
+ads:
+  - image_url: "https://example.com/image.jpg"
+    primary_text: "Your ad copy here"
+    headline: "Your headline"
+    description: "Supporting description"
+    cta_type: LEARN_MORE         # LEARN_MORE | SHOP_NOW | SIGN_UP | CONTACT_US | BOOK_NOW
+    link_url: "https://your-landing-page.com"

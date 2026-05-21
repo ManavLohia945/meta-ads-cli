@@ -1,0 +1,5537 @@
+{
+  "meta": {
+    "slug": "suvidhi",
+    "name": "Trainer Goes Online",
+    "business_id": "797082854535948",
+    "accounts": [
+      {
+        "account_id": "662108397935596",
+        "name": "662108397935596"
+      }
+    ],
+    "last_updated": "2026-05-03T06:53:12.951033+00:00"
+  },
+  "structure": {
+    "662108397935596": {
+      "campaigns": {
+        "120239084921060068": {
+          "id": "120239084921060068",
+          "name": "Instagram post: Comment “Vegetarian Protein” to...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "56400",
+          "start_time": "2026-03-22T18:08:57+0530",
+          "stop_time": "2026-03-25T18:08:57+0530"
+        },
+        "120236475370030068": {
+          "id": "120236475370030068",
+          "name": "Instagram post: Day 7 of Reporting at Gram\n\n.\n.\n....",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "daily_budget": "18400",
+          "start_time": "2026-01-23T12:11:33+0530",
+          "stop_time": "2026-01-25T12:11:33+0530"
+        },
+        "120228630550200068": {
+          "id": "120228630550200068",
+          "name": "Instagram post: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "52800",
+          "start_time": "2025-08-19T13:26:53+0530",
+          "stop_time": "2025-08-22T13:26:53+0530"
+        },
+        "120220445417510068": {
+          "id": "120220445417510068",
+          "name": "Instagram post: Weight loss isn’t magic, it’s...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "77400",
+          "start_time": "2025-04-26T19:16:54+0530",
+          "stop_time": "2025-04-29T19:16:54+0530"
+        },
+        "120218785461920068": {
+          "id": "120218785461920068",
+          "name": "Instagram पोस्ट: You lose fat, but the weight...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "69600",
+          "start_time": "2025-04-11T17:15:53+0530",
+          "stop_time": "2025-04-15T17:15:53+0530"
+        },
+        "120216918581960068": {
+          "id": "120216918581960068",
+          "name": "Instagram post: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "38700",
+          "start_time": "2025-03-30T17:33:58+0530",
+          "stop_time": "2025-04-02T17:33:58+0530"
+        },
+        "120216918433880068": {
+          "id": "120216918433880068",
+          "name": "Instagram post: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "51600",
+          "start_time": "2025-03-30T17:32:59+0530",
+          "stop_time": "2025-04-02T17:32:59+0530"
+        },
+        "120216831337000068": {
+          "id": "120216831337000068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "17200",
+          "start_time": "2025-03-29T19:01:22+0530",
+          "stop_time": "2025-03-30T19:01:22+0530"
+        },
+        "120216583584640068": {
+          "id": "120216583584640068",
+          "name": "Instagram पोस्ट: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "51600",
+          "start_time": "2025-03-26T18:11:18+0530",
+          "stop_time": "2025-03-29T18:11:18+0530"
+        },
+        "120213246608920068": {
+          "id": "120213246608920068",
+          "name": "Instagram पोस्ट: And this, my dear, will become...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "34800",
+          "start_time": "2025-01-23T16:04:29+0530",
+          "stop_time": "2025-01-25T16:04:29+0530"
+        },
+        "120212891988600068": {
+          "id": "120212891988600068",
+          "name": "Instagram पोस्ट: Isn’t self-love the foundation...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "51800",
+          "start_time": "2025-01-11T10:50:51+0530",
+          "stop_time": "2025-01-13T10:50:51+0530"
+        },
+        "120212565098990068": {
+          "id": "120212565098990068",
+          "name": "Instagram पोस्ट: Can Fennel Seeds Really Help You...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "51300",
+          "start_time": "2024-12-27T12:15:37+0530",
+          "stop_time": "2024-12-30T12:15:37+0530"
+        },
+        "120211962293370068": {
+          "id": "120211962293370068",
+          "name": "Instagram पोस्ट: Did you know that protein 🥚🍗,...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "51000",
+          "start_time": "2024-11-30T17:17:45+0530",
+          "stop_time": "2024-12-03T17:17:45+0530"
+        },
+        "120211800036790068": {
+          "id": "120211800036790068",
+          "name": "Instagram पोस्ट: Let’s see what insights our...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "34000",
+          "start_time": "2024-11-23T11:59:46+0530",
+          "stop_time": "2024-11-25T11:59:46+0530"
+        },
+        "120211483477180068": {
+          "id": "120211483477180068",
+          "name": "Instagram पोस्ट: 𝗖𝗲𝗹𝗲𝗯𝗿𝗮𝘁𝗶𝗻𝗴 𝗖𝗵𝗵𝗮𝘁 𝗣𝘂𝗷𝗮? 𝗛𝗲𝗿𝗲’𝘀...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "33800",
+          "start_time": "2024-11-09T13:33:40+0530",
+          "stop_time": "2024-11-11T13:33:40+0530"
+        },
+        "120211323210040068": {
+          "id": "120211323210040068",
+          "name": "Instagram पोस्ट: On this auspicious day, we're...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "33800",
+          "start_time": "2024-11-02T11:08:59+0530",
+          "stop_time": "2024-11-04T11:08:59+0530"
+        },
+        "120211229438570068": {
+          "id": "120211229438570068",
+          "name": "Instagram पोस्ट: 🎇 𝗗𝗶𝘄𝗮𝗹𝗶 𝗢𝗳𝗳𝗲𝗿: 𝗥𝗲𝗳𝗲𝗿 𝗮 member...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "16900",
+          "start_time": "2024-10-29T17:09:42+0530",
+          "stop_time": "2024-10-30T17:09:42+0530"
+        },
+        "23851931162900067": {
+          "id": "23851931162900067",
+          "name": "Instagram post: It’s getting tough to Take...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "72000",
+          "start_time": "2022-12-05T19:50:00+0530",
+          "stop_time": "2022-12-11T19:50:00+0530"
+        },
+        "23849134080830067": {
+          "id": "23849134080830067",
+          "name": "Instagram पोस्ट: Consult us today to get started...",
+          "status": "ACTIVE",
+          "objective": "MESSAGES",
+          "lifetime_budget": "84000",
+          "start_time": "2022-01-12T19:29:40+0530",
+          "stop_time": "2022-01-19T19:29:40+0530"
+        },
+        "23845617544570067": {
+          "id": "23845617544570067",
+          "name": "Instagram पोस्ट: Weight Loss Recipe\n\nCheck out...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "84000",
+          "start_time": "2020-09-19T15:22:50+0530",
+          "stop_time": "2020-09-26T15:22:43+0530"
+        },
+        "23845571593230067": {
+          "id": "23845571593230067",
+          "name": "Instagram पोस्ट: Start Drinking Your Chia Seed...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "84000",
+          "start_time": "2020-09-15T13:10:24+0530",
+          "stop_time": "2020-09-22T13:10:10+0530"
+        },
+        "23845513355910067": {
+          "id": "23845513355910067",
+          "name": "Instagram पोस्ट: WHY CHOOSE InnoHealth?\n\nDiet...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "56000",
+          "start_time": "2020-09-10T12:39:10+0530",
+          "stop_time": "2020-09-17T12:39:01+0530"
+        },
+        "23845513003910067": {
+          "id": "23845513003910067",
+          "name": "Instagram पोस्ट: Limited Time Offer\n\n#healthydiet...",
+          "status": "ACTIVE",
+          "objective": "LINK_CLICKS",
+          "lifetime_budget": "56000",
+          "start_time": "2020-09-10T12:07:03+0530",
+          "stop_time": "2020-09-17T12:06:57+0530"
+        }
+      },
+      "adsets": {
+        "120239084921520068": {
+          "id": "120239084921520068",
+          "name": "Instagram post: Comment “Vegetarian Protein” to...",
+          "status": "ACTIVE",
+          "campaign_id": "120239084921060068"
+        },
+        "120236475370460068": {
+          "id": "120236475370460068",
+          "name": "Instagram post: Day 7 of Reporting at Gram\n\n.\n.\n....",
+          "status": "ACTIVE",
+          "campaign_id": "120236475370030068"
+        },
+        "120228630550300068": {
+          "id": "120228630550300068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120228630550200068"
+        },
+        "120220445425190068": {
+          "id": "120220445425190068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120220445417510068"
+        },
+        "120218785461950068": {
+          "id": "120218785461950068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120218785461920068"
+        },
+        "120216918582040068": {
+          "id": "120216918582040068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120216918581960068"
+        },
+        "120216918434940068": {
+          "id": "120216918434940068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120216918433880068"
+        },
+        "120216831337870068": {
+          "id": "120216831337870068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120216831337000068"
+        },
+        "120216583584690068": {
+          "id": "120216583584690068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120216583584640068"
+        },
+        "120213246609020068": {
+          "id": "120213246609020068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120213246608920068"
+        },
+        "120212891988660068": {
+          "id": "120212891988660068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120212891988600068"
+        },
+        "120212565099070068": {
+          "id": "120212565099070068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120212565098990068"
+        },
+        "120211962293420068": {
+          "id": "120211962293420068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120211962293370068"
+        },
+        "120211800036820068": {
+          "id": "120211800036820068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120211800036790068"
+        },
+        "120211483477230068": {
+          "id": "120211483477230068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120211483477180068"
+        },
+        "120211323210110068": {
+          "id": "120211323210110068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120211323210040068"
+        },
+        "120211229438690068": {
+          "id": "120211229438690068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "120211229438570068"
+        },
+        "23851931162950067": {
+          "id": "23851931162950067",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "23851931162900067"
+        },
+        "23849134080900067": {
+          "id": "23849134080900067",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "campaign_id": "23849134080830067"
+        },
+        "23845617544630067": {
+          "id": "23845617544630067",
+          "name": "Instagram पोस्ट: Weight Loss Recipe\n\nCheck out...",
+          "status": "ACTIVE",
+          "campaign_id": "23845617544570067"
+        },
+        "23845571593280067": {
+          "id": "23845571593280067",
+          "name": "Instagram पोस्ट: Start Drinking Your Chia Seed...",
+          "status": "ACTIVE",
+          "campaign_id": "23845571593230067"
+        },
+        "23845513355950067": {
+          "id": "23845513355950067",
+          "name": "Instagram पोस्ट: WHY CHOOSE InnoHealth?\n\nDiet...",
+          "status": "ACTIVE",
+          "campaign_id": "23845513355910067"
+        },
+        "23845513003960067": {
+          "id": "23845513003960067",
+          "name": "Instagram पोस्ट: Limited Time Offer\n\n#healthydiet...",
+          "status": "ACTIVE",
+          "campaign_id": "23845513003910067"
+        }
+      },
+      "ads": {
+        "120239084922250068": {
+          "id": "120239084922250068",
+          "name": "Instagram post: Comment “Vegetarian Protein” to...",
+          "status": "ACTIVE",
+          "adset_id": "120239084921520068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-2.fna.fbcdn.net/v/t15.5256-10/654486415_908062738710124_9185875479530254390_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=ImF_fRTEtCkQ7kNvwGLD6hX&_nc_oc=AdoGJVoFJbWlidQaEiKYrLG-04vRTnGjzO7BPnPcskeDozGwF-L8xDayHlifF7MCAmSRoUQuFbYQtMHLOL6dT-13&_nc_zt=23&_nc_ht=scontent.fbom3-2.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQHTLGNlQQzsAnjzWGxuOTIu8jfBBqUVRq-_CR__oKrh7L-eHaaeUyNzbNjVYG90xHhTCC_g28im&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af5c5hS5A5wOa70rMes5GI7jWP3G35lYI1u8m1hC5mZ1yg&oe=69FCC135",
+            "effective_object_story_id": "102862784729808_908062712043460",
+            "id": "915944344741807"
+          }
+        },
+        "120236475371450068": {
+          "id": "120236475371450068",
+          "name": "Instagram post: Day 7 of Reporting at Gram\n\n.\n.\n....",
+          "status": "ACTIVE",
+          "adset_id": "120236475370460068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-2.fna.fbcdn.net/v/t15.5256-10/620697871_1169779845330945_8881502956596634802_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=eOvoPGP0mCUQ7kNvwHzOser&_nc_oc=Adq_nRIaXV1q8tBmuJyrmxIWBYT3EImMZ1Sl4HVopBxz2wXP_YEJO613lGub695D-sUsWhczLBGAwpDACNEgUS2t&_nc_zt=23&_nc_ht=scontent.fbom3-2.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQFRE1pfObsSkzNWrDRJKGXbgbIMQ1OLkJlKy1YxJ-F9vVKGB_K88cNPWAAWgfbhY2yFWG-bz7YJ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af7hffsy89Porl6BhS5hPbHwfzwaa2L1f8ZeASIdwIZzwA&oe=69FCC71B",
+            "effective_object_story_id": "938983792636582_1169779835330946",
+            "id": "2656907521334954"
+          }
+        },
+        "120220445427840068": {
+          "id": "120220445427840068",
+          "name": "Instagram post: Weight loss isn’t magic, it’s...",
+          "status": "ACTIVE",
+          "adset_id": "120220445425190068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-2.fna.fbcdn.net/v/t15.5256-10/493992923_1241818144214289_5595146727617574080_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=VqbtV41JG8AQ7kNvwGCQCgV&_nc_oc=Adqs3ID6fPE7_7lVMgACUyh-D-vEdRlTbuBnjn4G0vy-AiRnFYFDbquv9V9vV-VveZPDZp7jFtnhcL-24nE7e-nZ&_nc_zt=23&_nc_ht=scontent.fbom3-2.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQFES282ttNsY5kUYHPyGEc9zzZHgLUSUvSrPOl77fnV3nEkGTRm6qGUCVLVTlirTLG6r7U43pWi&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af5EUwpz8Y-zgkOwAtJEd6OHhhhXCwRM8CBPnxm63Gbxig&oe=69FCB57C",
+            "effective_object_story_id": "102862784729808_1241818117547625",
+            "id": "2097378474111109"
+          }
+        },
+        "120218785462080068": {
+          "id": "120218785462080068",
+          "name": "Instagram पोस्ट: You lose fat, but the weight...",
+          "status": "ACTIVE",
+          "adset_id": "120218785461950068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-2.fna.fbcdn.net/v/t15.5256-10/490360072_1391469138881858_8611492964617476315_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=LfnRo1zq9hIQ7kNvwHVMCT8&_nc_oc=Adpcy-kO4Hk0M1sFQtHSeyHuQUJ_zFM6p2rcCAINniLjeDMj20ElxNfkUiPyeLgVSqjF6KuY2aAxJedvU4Z8XIXz&_nc_zt=23&_nc_ht=scontent.fbom3-2.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQGkF49aZiF6wH6V0UCf5OxoE7PgYCi02u1MKgLbg190_RqzitAv2H2Qzf8k4EiBGfLK2l3DS9uj&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af71AoPvFjx9ZJP93cwboApOvjAEIcz-O_5iz-FPAJtX5g&oe=69FCC5AF",
+            "effective_object_story_id": "102862784729808_1391469115548527",
+            "id": "4253532158305895"
+          }
+        },
+        "120228630550370068": {
+          "id": "120228630550370068",
+          "name": "Instagram post: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "adset_id": "120228630550300068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-2.fna.fbcdn.net/v/t15.5256-10/535034391_786113887289906_1538664408933926741_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=jxGNvTwQ6kcQ7kNvwGcHjFU&_nc_oc=Adqv_a2b9ezwWmDdab5a1I-fRIdUbuM8dt8uHi9P5Lv2pgEA0yNNzdaN20aXFUMbwx2FnPPhOI0GXUrXAYdSP-lW&_nc_zt=23&_nc_ht=scontent.fbom3-2.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQGNgkMZUUlZW-vhrlBpHz7ee8R46mMoGaghtY-o0uIbg4SNir0lTZp5enRXmCBl3jkaZ4JcY2wo&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af4YtVIY4jBVRFPryd__U79k7JBBWTAewUJGgJ1BQeZwZA&oe=69FCCCB8",
+            "effective_object_story_id": "102862784729808_786113870623241",
+            "id": "31165250743089979"
+          }
+        },
+        "120216831339290068": {
+          "id": "120216831339290068",
+          "name": "Instagram Post",
+          "status": "ACTIVE",
+          "adset_id": "120216831337870068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-4.fna.fbcdn.net/v/t15.5256-10/487218173_1399413154802548_7792008924547345052_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=_F5OD3X-0t0Q7kNvwGhBGev&_nc_oc=AdrHO2LZuhntbustDb7TK1PQ9uHcTUVoUuOKQVTkd8qjtxMDLMZkl8DxAgN_cnya9LqBT4wQO201Q_yoAX9ybzjR&_nc_zt=23&_nc_ht=scontent.fbom3-4.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQHcT3_US8JU2Z8uZ4h6AyuejRORZSXJ8VYQm_hN-8iaDRqVNwRwpBy4_eRQY77jTWdgpCscPFR6&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af5dFVm_o_5md0-A9SuNXKqELJTWPMVBgRfa7BZeEvfDqQ&oe=69FCDD9D",
+            "effective_object_story_id": "102862784729808_1399413124802551",
+            "id": "1575481949810709"
+          }
+        },
+        "120216583585520068": {
+          "id": "120216583585520068",
+          "name": "Instagram पोस्ट: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "adset_id": "120216583584690068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-1.fna.fbcdn.net/v/t15.5256-10/487084026_2346171562405339_53518106778390067_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=Q1y6cSy03nsQ7kNvwHSRJCE&_nc_oc=Adrsr12HTDvpPAPdrdBYvdPibyMkvU4hold5jVhO_GUGAG9aV4RuaUUTkzUcmik8m5V4hiAjIgC_lz4hifczpqRV&_nc_zt=23&_nc_ht=scontent.fbom3-1.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQFybBUiTuyzcjXSNixsPziZBt1IUT4edhQGQXL3IAA_dogcMc8rnZLfRJbwK0Jqyuprfglr-YEZ&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af7fgeCnGfzkrj5N14Hlx4eg62XPuJa3iC6n6IItewu8jg&oe=69FCD5B3",
+            "effective_object_story_id": "102862784729808_2346171535738675",
+            "id": "1374773983707103"
+          }
+        },
+        "120216918585300068": {
+          "id": "120216918585300068",
+          "name": "Instagram post: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "adset_id": "120216918582040068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-5.fna.fbcdn.net/v/t15.5256-10/487323841_2650103328679818_5776978366846825781_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=pRMoayoDXysQ7kNvwFbK7OQ&_nc_oc=AdrRDw0Gv-N04WP66O9dKQzCjnJcM2CAc2dKCSIcMVIar7-iHaJicP8EovOEwLocoarF1Xv650B4AY0o-6RwZ7hN&_nc_zt=23&_nc_ht=scontent.fbom3-5.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQFBZwY2U_VYsMkxNLs5e97iiXuVK2LMe7Akpb-nnbWW9Wstukdy2MTkW5mI7-41xWNe40kJSuuB&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af7LZ_F0VCDCW9iTK1QwVqEEJx43lEIcwXIbo45Pl5YQzQ&oe=69FCC274",
+            "effective_object_story_id": "102862784729808_2650103302013154",
+            "id": "519116994583499"
+          }
+        },
+        "120216918435220068": {
+          "id": "120216918435220068",
+          "name": "Instagram post: Struggling with PCOD after 30?...",
+          "status": "ACTIVE",
+          "adset_id": "120216918434940068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-1.fna.fbcdn.net/v/t15.5256-10/487752921_9461207703937256_1965024213535548665_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=p5OLIq0r2vkQ7kNvwHhdvZC&_nc_oc=Adq-_fvYIeE6GEbpimqAiZVoQlhq8FM5jcD9M_G08FntWZSLC9M6UnTf04PaftG3BiTeorO4RvKKE-OuGCLK44z-&_nc_zt=23&_nc_ht=scontent.fbom3-1.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQHV5FgrgTsrRL4zQvKhQQIicMxkB37Fo8PHeJCzAtittHZAUcPVes1UA1Izne42SDZao8cIhQo5&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af52EK90yuKxhDVEY3htR0mX8B6121UjQtBCmCJGG_fa1w&oe=69FCBC58",
+            "effective_object_story_id": "102862784729808_9461207547270605",
+            "id": "959479006170450"
+          }
+        },
+        "120213246609090068": {
+          "id": "120213246609090068",
+          "name": "Instagram पोस्ट: And this, my dear, will become...",
+          "status": "ACTIVE",
+          "adset_id": "120213246609020068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-4.fna.fbcdn.net/v/t15.5256-10/474974503_1401001160866358_2463115303500584807_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=IdCMQIXGnhQQ7kNvwEntbHP&_nc_oc=Adr32q_0kcv8hsio20aT5-fRXlLSUDOY2dAXlqKvGETcK4jekyShLbb1rW87jHBH0vY4gy7gGI_-gg23KwtmBCBA&_nc_zt=23&_nc_ht=scontent.fbom3-4.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQFY-0Cp--C2wGj_RZCFF_ehlA8ugGOqYxOzvEmMPDzn_1KZkA7XkVQuh_gLK7xNCHnPu0QczFFf&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af5NSdFXsyHIbaqJB7y4Fsf2ff9SM2fqO7syJjIwl_7_0Q&oe=69FCD9EE",
+            "effective_object_story_id": "102862784729808_1401001127533028",
+            "id": "2038739099899099"
+          }
+        },
+        "120212891988700068": {
+          "id": "120212891988700068",
+          "name": "Instagram पोस्ट: Isn’t self-love the foundation...",
+          "status": "ACTIVE",
+          "adset_id": "120212891988660068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-3.fna.fbcdn.net/v/t15.5256-10/472553108_980944757216063_1597201732098413606_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=YMVMuOvoqoIQ7kNvwHo8Rh1&_nc_oc=AdrmqnvGNWUc0Vtpas8sjhZeFFJWu7qqgTvL7AR6YOBPA4VfEWennS-FuG28hRtZKuHh15jc5AiP9xVr0ZopRBNd&_nc_zt=23&_nc_ht=scontent.fbom3-3.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQEQ0YzAwGY4AvZa5Lz5uPzxTlZBBaxNHpXCkHTD0gvkKultgzuFKo4zEH5jXlq9cWnQ2zuqZoBA&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af4GcaHdBY3c5LIZKBsjjmcc6nImqej50n4IEHzf4Irxdg&oe=69FCC470",
+            "effective_object_story_id": "102862784729808_980944747216064",
+            "id": "120212891986720068"
+          }
+        },
+        "120212565099250068": {
+          "id": "120212565099250068",
+          "name": "Instagram पोस्ट: Can Fennel Seeds Really Help You...",
+          "status": "ACTIVE",
+          "adset_id": "120212565099070068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-1.fna.fbcdn.net/v/t15.5256-10/471745363_1088903276580476_4874649153386636826_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=T3FLQKLF3eQQ7kNvwEttRDj&_nc_oc=AdqB80Y7gnEf1ZKIk_YuIkgqbIen08GP5J5XIxOhCeGwMlx53yq45Pixv2rW2IJv9kaPpCKUWXh0YRkZWCd8gTOp&_nc_zt=23&_nc_ht=scontent.fbom3-1.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQHD9tr46T711I4wyX7cN3zdWe7yv5tw-mB7rZvBsOtUbEswpPED7jJW5jCZqpM5TeCXbaKlR6IF&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af76YwAUavfIrnAGhobv46wwTh3yT0mtk0sOl0qvn52tCw&oe=69FCCBCA",
+            "effective_object_story_id": "102862784729808_1088903213247149",
+            "id": "120212565095810068"
+          }
+        },
+        "120211962293490068": {
+          "id": "120211962293490068",
+          "name": "Instagram पोस्ट: Did you know that protein 🥚🍗,...",
+          "status": "ACTIVE",
+          "adset_id": "120211962293420068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-1.fna.fbcdn.net/v/t15.5256-10/468854784_1244119720224179_8616774991539028040_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=Ad_UQ_PSCtIQ7kNvwE6hCeI&_nc_oc=AdoerhxI_FcUnxtyJUi0vWGtUw955RVqfg-4JsQsWh4BHay20IQjPlyDGY_r1NwqPWhxRJm9W0VWCwxX6Hor7ASR&_nc_zt=23&_nc_ht=scontent.fbom3-1.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQHFDJ863xaqijD8LuLvrwryx1urTqeyrNTQOklKst5kcEH13fu9S4DnplGKdRfiI3gsrTD-c1NI&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af4wuh83LTfbMB1KERCgLjo8syH7W7KY6QUJmjDki6RFiw&oe=69FCD4D0",
+            "effective_object_story_id": "102862784729808_1244119683557516",
+            "id": "120211962276280068"
+          }
+        },
+        "120211800036890068": {
+          "id": "120211800036890068",
+          "name": "Instagram पोस्ट: Let’s see what insights our...",
+          "status": "ACTIVE",
+          "adset_id": "120211800036820068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-3.fna.fbcdn.net/v/t15.5256-10/468076755_1074890730774275_103529817440508491_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=ZvdpNQ0bAxMQ7kNvwH5w_75&_nc_oc=Adqm_zdy_Jz5hdExD_gSjPYDUX7MCQKm_NqkCS91y8CromqCvUd7dNJ8K0DyuWHlmcUSdCaQbBbaBf5SK6sqJ_cw&_nc_zt=23&_nc_ht=scontent.fbom3-3.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQHcPr0fqX7Oze8MQGtl5UFmInZl_xCz4nl66E3r0aQRsJCdkL0tdVcJnumN-5ZzPh94NsTgeI0n&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af5PUbnnNvG_63Z8k3deELIo6sRM8bpCB-AfilTxFD-JMA&oe=69FCDAB4",
+            "effective_object_story_id": "102862784729808_1074890720774276",
+            "id": "120211800036300068"
+          }
+        },
+        "120211483477270068": {
+          "id": "120211483477270068",
+          "name": "Instagram पोस्ट: 𝗖𝗲𝗹𝗲𝗯𝗿𝗮𝘁𝗶𝗻𝗴 𝗖𝗵𝗵𝗮𝘁 𝗣𝘂𝗷𝗮? 𝗛𝗲𝗿𝗲’𝘀...",
+          "status": "ACTIVE",
+          "adset_id": "120211483477230068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-4.fna.fbcdn.net/v/t15.5256-10/466104967_9065280296850944_2754025698411767036_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=4vPtjsswyIEQ7kNvwE5wjm5&_nc_oc=AdpZe9aFuL3_DYkrC51K0sm7RDan4SZsjjUI2Dsx0NJgAWTG_I38cLKvyokpkn9t37MkcGcD8VRsLsxfmDpUNtXE&_nc_zt=23&_nc_ht=scontent.fbom3-4.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQHY-fbFEBXxLUEU7tm0ZxCz5SaMwR66xJZ7KN5xeqlk06CPXuB71ELUQFwFRsr0-rD-w5HB6ipk&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af6tdNPg1jAR3l-SJBYQftWq2FeJue5JIyGGbmuq7M3pjg&oe=69FCC6FC",
+            "effective_object_story_id": "102862784729808_9065280033517637",
+            "id": "120211483476550068"
+          }
+        },
+        "120211323210230068": {
+          "id": "120211323210230068",
+          "name": "Instagram पोस्ट: On this auspicious day, we're...",
+          "status": "ACTIVE",
+          "adset_id": "120211323210110068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-4.fna.fbcdn.net/v/t15.5256-10/465197937_593824853290807_5783097635490915087_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=qHtco5Ty-UcQ7kNvwFqMtmF&_nc_oc=AdpAtfLBPWB1mOk8eLauV-y9YZTT4GN_ELltLLmUSIkXKSNjbY5oFlAo4AvyRwxi7G6QXRwKsRfxqpmQhWd6jFde&_nc_zt=23&_nc_ht=scontent.fbom3-4.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQFICLeIVIRgiP2Xyu5MxsFfrWrJBC3J2Gci4y97m44fyM7_SkJPvOdinNp36Nc_g5U2oZvqencU&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af4fBXPKf2aY8Uw2N2x2Jh_8hZvySLQiqfelXMmFsS9q4w&oe=69FCDD29",
+            "effective_object_story_id": "102862784729808_593824836624142",
+            "id": "120211323208390068"
+          }
+        },
+        "120211229438750068": {
+          "id": "120211229438750068",
+          "name": "Instagram पोस्ट: 🎇 𝗗𝗶𝘄𝗮𝗹𝗶 𝗢𝗳𝗳𝗲𝗿: 𝗥𝗲𝗳𝗲𝗿 𝗮 member...",
+          "status": "ACTIVE",
+          "adset_id": "120211229438690068",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-1.fna.fbcdn.net/v/t15.5256-10/465066164_931116555737815_2976992740711214333_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=Y9_UuSgNRBgQ7kNvwFvoL5x&_nc_oc=Adqihu5ZElqEm8Vby7j6O4z7EWuO-hNXw-PwtSVBQsmBhiUvhQ0nYWVbwSufR9vAkUf50iqmkiK3XE-Nwyy7CW9W&_nc_zt=23&_nc_ht=scontent.fbom3-1.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQFkNVR_Aiu96jZLPDoCp7ka2bUxOUd4TEKodlEiJzD1gE2TzfkJXjR_mJfsTY-D0tEKOCO-oAGq&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af7LQpTEgj2kAlhNrG-ow7IcSRYzC8wcPl3CwkaWXCDXBA&oe=69FCBEF3",
+            "effective_object_story_id": "102862784729808_931116529071151",
+            "id": "120211229434270068"
+          }
+        },
+        "23851931163030067": {
+          "id": "23851931163030067",
+          "name": "Instagram post: It’s getting tough to Take...",
+          "status": "ACTIVE",
+          "adset_id": "23851931162950067",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-1.fna.fbcdn.net/v/t15.5256-10/317813677_800557607909452_2964578041047402242_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=aSOWKGEBr3AQ7kNvwFTWKB0&_nc_oc=AdpIILoO8_GWvVblP-_gmRb15ZNCQ3aZLqSgPACfqUZbT0VdW5K4xWDZnqek09ks5UfHAYwB6O2EKiJ4oy9K84q6&_nc_zt=23&_nc_ht=scontent.fbom3-1.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQENGF6lB-mrDkxfJ-iK9hYVhLSW1JBy1cpo1jddxodBPzTUfQ7H3RoqtYH7nYL5_wp_-yLS6YUk&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af7q2VuTK2lAe7LXLzVAXhRSMrulidoDfgLGKyoa5nFaog&oe=69FCCEB3",
+            "effective_object_story_id": "102862784729808_800557574576122",
+            "id": "23851931162760067"
+          }
+        },
+        "23849134080920067": {
+          "id": "23849134080920067",
+          "name": "Instagram पोस्ट: Consult us today to get started...",
+          "status": "ACTIVE",
+          "adset_id": "23849134080900067",
+          "creative": {
+            "thumbnail_url": "https://external.fbom3-5.fna.fbcdn.net/emg1/v/t13/10956432444009083604?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQJkpaXrmyewdIpnHLnAvgIu0BTC2QTNWQaEtLLUFwvk6DY-Xjwew_4PKN17qz_nZFRqHUuymWW8pQdWpU46bnWJPEoUsqB_PgS_jhniu5iSpMbFZkCJItTOco-da2ZwwPKi0V-Hh0JjUm9CDNp5duyQ&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_oc=AdrKz7SsooxbLk1jgpSiUVwrE5Ti-a4LGK-VOnkgr42ssGDFIPjl7BNGYmYT8vsSkLQvnOE2hCHBEZ93b8_OnGMM&ccb=13-1&oh=06_Q3--ATgyvoocDg_j4w9F_g2M0crauFUoL4P3Vt_S8f-rn3dp&oe=69F8DAE5&_nc_sid=58080a",
+            "effective_object_story_id": "102862784729808_488986236117459",
+            "id": "23849134080390067"
+          }
+        },
+        "23845617544660067": {
+          "id": "23845617544660067",
+          "name": "Instagram पोस्ट: Weight Loss Recipe\n\nCheck out...",
+          "status": "ACTIVE",
+          "adset_id": "23845617544630067",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-4.fna.fbcdn.net/v/t15.5256-10/119886049_1218793028502197_418171575496370019_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=lqfM6ed-pSkQ7kNvwGxjDn4&_nc_oc=AdpdgFsZ151BJl3edcXR_2r9ZhQBInGJDswfrZjPvf0GdY7WpSATlWfyuk7uIsDle7F-CiJUZ8xLYPbg77rX4LMM&_nc_zt=23&_nc_ht=scontent.fbom3-4.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQGU_vdx68P55lCX86kzTUugIStjKQ8V4b2KxZKMGVrn8irQOyLkNaRz4e7Gw3JkqgvrEco1NRH5&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af5HGQc9MEslLYPdDkOpPEF1gFY4Cxjlu9r7ZdCyBUndqA&oe=69FCA758",
+            "effective_object_story_id": "102862784729808_1218793015168865",
+            "id": "23845617544500067"
+          }
+        },
+        "23845513003980067": {
+          "id": "23845513003980067",
+          "name": "Instagram पोस्ट: Limited Time Offer\n\n#healthydiet...",
+          "status": "ACTIVE",
+          "adset_id": "23845513003960067",
+          "creative": {
+            "thumbnail_url": "https://external.fbom3-5.fna.fbcdn.net/emg1/v/t13/5797126757980166006?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQKHkt_SDoV7R7gLS2V3FsLlVn3PNn7QX70GLAHffSkpn-p3w4VG8pHa8drxm3fwShEpBeufU_hv7CRA59aAWtp_vp92WL-oeCcf5RyzKI7DCyd1W-qXcadJvTJBcwbu5yrUM-Rv9J0EDrnOpQFVSdd_&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_oc=AdpJJ3QJIXT5vnzsT7ObrPcgW5wW_FBvKQpLZgmfcoOIT-auVZ1-uHORenurcyNwdK76Bucs_IAS8oPLVovxWDqc&ccb=13-1&oh=06_Q3--ATAoH7NLKqbRoB874asuVjOry701IVbvAbbVUrsHJ3xq&oe=69F8D93D&_nc_sid=58080a",
+            "effective_object_story_id": "102862784729808_176135310735888",
+            "id": "23845513003800067"
+          }
+        },
+        "23845571593350067": {
+          "id": "23845571593350067",
+          "name": "Instagram पोस्ट: Start Drinking Your Chia Seed...",
+          "status": "ACTIVE",
+          "adset_id": "23845571593280067",
+          "creative": {
+            "thumbnail_url": "https://external.fbom3-5.fna.fbcdn.net/emg1/v/t13/16041100967894974299?url=https%3A%2F%2Fwww.facebook.com%2Fads%2Fimage%2F%3Fd%3DAQLwSzZ-OLPEF3TPKK8Iah7q51TOsdqOONEhA829Xb6_CbmrSVqAAJfx70Qptg5w9B93GAqpUWJ7sM6d9ktLOWSwxXNC1rQbqB14V9dCNgFZG0q9NOgiaZ7lUDNLteKW5mIllt_YAdx_Iq49PxjzlRdh&fb_obo=1&utld=facebook.com&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_oc=AdqFkpI3ZbyyfgID8o4_x6Ck0oVALJKPEbEhe6UQ3Kibgo3Oqnxryk76ZMTMHqz6ZXFVWTV-Etj1YotUhke_Q8af&ccb=13-1&oh=06_Q3--AYhe9Eoq-WtJAdf8BwUL0FHzdh2jafh0_fYqGxBcbnGh&oe=69F8C721&_nc_sid=58080a",
+            "effective_object_story_id": "102862784729808_177991320550287",
+            "id": "23845571593160067"
+          }
+        },
+        "23845513355980067": {
+          "id": "23845513355980067",
+          "name": "Instagram पोस्ट: WHY CHOOSE InnoHealth?\n\nDiet...",
+          "status": "ACTIVE",
+          "adset_id": "23845513355950067",
+          "creative": {
+            "thumbnail_url": "https://scontent.fbom3-5.fna.fbcdn.net/v/t15.5256-10/119135546_940696516451521_6127885294920692508_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=kQfMHbqmOSEQ7kNvwF-k7z1&_nc_oc=AdoXsyU5wKkuUNgWM38pMBMSWbGOL8u3putoufCyyU2wxivEmLiOyBANJ-492i5hYFTgxyvud7GDnJ8r9eTGvfln&_nc_zt=23&_nc_ht=scontent.fbom3-5.fna&edm=AOgd6ZUEAAAA&_nc_gid=ov5fVOIXvSjtnX9ruQvJbw&_nc_tpa=Q5bMBQG7TFIq0c6P_2VGQ5UzGpoQ9GIkLUtqRO4m8Y7onPhH5vjo-dbe0KZqUqFk9nvr3gl5QIxdwYE2&stp=c0.5000x0.5000f_dst-emg0_p64x64_q75_tt6&ur=a7ce7f&_nc_sid=58080a&oh=00_Af7xpkcVbmp7Sibxk48rbsxWHwANHS4SLGxPS0Pa1XGPrQ&oe=69FCCDE9",
+            "effective_object_story_id": "102862784729808_940696496451523",
+            "id": "23845513355790067"
+          }
+        }
+      }
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-04-01",
+      "accounts": {
+        "662108397935596": {
+          "insights": {
+            "spend": "0",
+            "reach": "0",
+            "impressions": "0",
+            "inline_link_clicks": "0",
+            "frequency": "0",
+            "actions": [
+              {
+                "action_type": "initiate_checkout",
+                "value": "2"
+              },
+              {
+                "action_type": "omni_initiated_checkout",
+                "value": "2"
+              },
+              {
+                "action_type": "add_to_cart",
+                "value": "2"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_add_payment_info",
+                "value": "1"
+              },
+              {
+                "action_type": "onsite_web_add_to_cart",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_web_app_add_to_cart",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_web_initiate_checkout",
+                "value": "2"
+              },
+              {
+                "action_type": "omni_add_to_cart",
+                "value": "2"
+              },
+              {
+                "action_type": "add_payment_info",
+                "value": "1"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                "value": "2"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_custom",
+                "value": "1"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                "value": "2"
+              }
+            ],
+            "cost_per_action_type": [
+              {
+                "action_type": "initiate_checkout",
+                "value": "0"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_custom",
+                "value": "0"
+              },
+              {
+                "action_type": "add_payment_info",
+                "value": "0"
+              },
+              {
+                "action_type": "onsite_web_initiate_checkout",
+                "value": "0"
+              },
+              {
+                "action_type": "add_to_cart",
+                "value": "0"
+              },
+              {
+                "action_type": "omni_initiated_checkout",
+                "value": "0"
+              },
+              {
+                "action_type": "omni_add_to_cart",
+                "value": "0"
+              }
+            ]
+          },
+          "by_campaign": {
+            "120238887043210068": {
+              "spend": "0",
+              "reach": "0",
+              "impressions": "0",
+              "inline_link_clicks": "0",
+              "frequency": "0",
+              "actions": [
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_payment_info",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_payment_info",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "0"
+                },
+                {
+                  "action_type": "add_payment_info",
+                  "value": "0"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "0"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "0"
+                }
+              ],
+              "campaign_name": "TGO 7-Day Reset 19/03/26"
+            }
+          },
+          "by_adset": {
+            "120238887043230068": {
+              "spend": "0",
+              "reach": "0",
+              "impressions": "0",
+              "inline_link_clicks": "0",
+              "frequency": "0",
+              "actions": [
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_payment_info",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_payment_info",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "0"
+                },
+                {
+                  "action_type": "add_payment_info",
+                  "value": "0"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "0"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "0"
+                }
+              ],
+              "adset_name": "Interest based",
+              "campaign_id": "120238887043210068"
+            }
+          },
+          "by_ad": {
+            "120238887043190068": {
+              "spend": "0",
+              "reach": "0",
+              "impressions": "0",
+              "inline_link_clicks": "0",
+              "frequency": "0",
+              "actions": [
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_payment_info",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_payment_info",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "0"
+                },
+                {
+                  "action_type": "add_payment_info",
+                  "value": "0"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "0"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "0"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "0"
+                }
+              ],
+              "ad_name": "Static Ad 5",
+              "adset_id": "120238887043230068",
+              "campaign_id": "120238887043210068"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-04-02",
+      "accounts": {
+        "662108397935596": {
+          "insights": {
+            "spend": "708.55",
+            "reach": "12118",
+            "impressions": "13291",
+            "inline_link_clicks": "113",
+            "frequency": "1.096798",
+            "cpm": "53.310511",
+            "cpc": "5.579134",
+            "ctr": "0.955534",
+            "actions": [
+              {
+                "action_type": "link_click",
+                "value": "113"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "139"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "19"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "19"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "139"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "5"
+              },
+              {
+                "action_type": "onsite_web_view_content",
+                "value": "24"
+              },
+              {
+                "action_type": "post_interaction_net",
+                "value": "5"
+              },
+              {
+                "action_type": "onsite_web_app_view_content",
+                "value": "24"
+              },
+              {
+                "action_type": "post",
+                "value": "1"
+              },
+              {
+                "action_type": "view_content",
+                "value": "24"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_like",
+                "value": "4"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "24"
+              },
+              {
+                "action_type": "video_view",
+                "value": "21"
+              },
+              {
+                "action_type": "omni_view_content",
+                "value": "24"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_view_content",
+                "value": "24"
+              },
+              {
+                "action_type": "post_reaction",
+                "value": "4"
+              }
+            ],
+            "cost_per_action_type": [
+              {
+                "action_type": "omni_view_content",
+                "value": "29.522917"
+              },
+              {
+                "action_type": "video_view",
+                "value": "33.740476"
+              },
+              {
+                "action_type": "link_click",
+                "value": "6.270354"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "141.71"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "5.097482"
+              },
+              {
+                "action_type": "view_content",
+                "value": "29.522917"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "29.522917"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "37.292105"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "5.097482"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "37.292105"
+              }
+            ],
+            "video_30_sec_watched_actions": [
+              {
+                "action_type": "video_view",
+                "value": "8"
+              }
+            ]
+          },
+          "by_campaign": {
+            "120239700730940068": {
+              "spend": "708.55",
+              "reach": "12118",
+              "impressions": "13291",
+              "inline_link_clicks": "113",
+              "frequency": "1.096798",
+              "cpm": "53.310511",
+              "cpc": "5.579134",
+              "ctr": "0.955534",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "113"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "139"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "19"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "19"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "139"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "post",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "4"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "24"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "21"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "29.522917"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "33.740476"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "6.270354"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "141.71"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "5.097482"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "29.522917"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "29.522917"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "37.292105"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "5.097482"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "37.292105"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "8"
+                }
+              ],
+              "campaign_name": "TGO Reset- Clarity 1/4/26"
+            }
+          },
+          "by_adset": {
+            "120239700730950068": {
+              "spend": "708.55",
+              "reach": "12118",
+              "impressions": "13291",
+              "inline_link_clicks": "113",
+              "frequency": "1.096798",
+              "cpm": "53.310511",
+              "cpc": "5.579134",
+              "ctr": "0.955534",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "113"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "139"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "19"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "19"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "139"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "post",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "4"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "24"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "21"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "24"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "29.522917"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "33.740476"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "6.270354"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "141.71"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "5.097482"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "29.522917"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "29.522917"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "37.292105"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "5.097482"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "37.292105"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "8"
+                }
+              ],
+              "adset_name": "Interest based",
+              "campaign_id": "120239700730940068"
+            }
+          },
+          "by_ad": {
+            "120239700730770068": {
+              "spend": "35.16",
+              "reach": "557",
+              "impressions": "571",
+              "inline_link_clicks": "8",
+              "frequency": "1.025135",
+              "cpm": "61.576182",
+              "cpc": "3.906667",
+              "ctr": "1.576182",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "8"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "8"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "8"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "35.16"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "4.395"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "4.395"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "35.16"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "35.16"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "35.16"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "4.395"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "35.16"
+                }
+              ],
+              "ad_name": "Static Ad 16",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239700730780068": {
+              "spend": "461.11",
+              "reach": "5874",
+              "impressions": "6642",
+              "inline_link_clicks": "41",
+              "frequency": "1.130746",
+              "cpm": "69.423366",
+              "cpc": "8.700189",
+              "ctr": "0.797952",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "41"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "45"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "12"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "45"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "3"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "17"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "3"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "27.124118"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "461.11"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "11.246585"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "153.703333"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "10.246889"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "27.124118"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "27.124118"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "38.425833"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "10.246889"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "38.425833"
+                }
+              ],
+              "ad_name": "Static Ad 17",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239783736610068": {
+              "spend": "212.28",
+              "reach": "5794",
+              "impressions": "6078",
+              "inline_link_clicks": "64",
+              "frequency": "1.049016",
+              "cpm": "34.925962",
+              "cpc": "3.265846",
+              "ctr": "1.069431",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "64"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "86"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "6"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "6"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "86"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "6"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "6"
+                },
+                {
+                  "action_type": "post",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "6"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "6"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "20"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "6"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "6"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "35.38"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "10.614"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "3.316875"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "106.14"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "2.468372"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "35.38"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "35.38"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "35.38"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "2.468372"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "35.38"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "8"
+                }
+              ],
+              "ad_name": "Static Ad 18",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "accounts": {
+        "662108397935596": {
+          "insights": {
+            "spend": "904.91",
+            "reach": "3130",
+            "impressions": "3567",
+            "inline_link_clicks": "40",
+            "frequency": "1.139617",
+            "cpm": "253.689375",
+            "cpc": "19.253404",
+            "ctr": "1.317634",
+            "actions": [
+              {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "1"
+              },
+              {
+                "action_type": "web_in_store_purchase",
+                "value": "2"
+              },
+              {
+                "action_type": "omni_purchase",
+                "value": "2"
+              },
+              {
+                "action_type": "link_click",
+                "value": "40"
+              },
+              {
+                "action_type": "initiate_checkout",
+                "value": "2"
+              },
+              {
+                "action_type": "omni_initiated_checkout",
+                "value": "2"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "60"
+              },
+              {
+                "action_type": "purchase",
+                "value": "2"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "11"
+              },
+              {
+                "action_type": "offsite_purchase_add_20_s_calls",
+                "value": "2"
+              },
+              {
+                "action_type": "add_to_cart",
+                "value": "3"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "11"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "60"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "10"
+              },
+              {
+                "action_type": "onsite_web_app_purchase",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_web_view_content",
+                "value": "17"
+              },
+              {
+                "action_type": "onsite_web_add_to_cart",
+                "value": "3"
+              },
+              {
+                "action_type": "post_interaction_net",
+                "value": "10"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_purchase",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_web_app_view_content",
+                "value": "17"
+              },
+              {
+                "action_type": "post",
+                "value": "3"
+              },
+              {
+                "action_type": "view_content",
+                "value": "17"
+              },
+              {
+                "action_type": "onsite_conversion.post_save",
+                "value": "3"
+              },
+              {
+                "action_type": "web_app_in_store_purchase",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_web_app_add_to_cart",
+                "value": "3"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_save",
+                "value": "3"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_like",
+                "value": "4"
+              },
+              {
+                "action_type": "onsite_web_initiate_checkout",
+                "value": "2"
+              },
+              {
+                "action_type": "omni_add_to_cart",
+                "value": "3"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "17"
+              },
+              {
+                "action_type": "onsite_web_purchase",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "1"
+              },
+              {
+                "action_type": "video_view",
+                "value": "10"
+              },
+              {
+                "action_type": "omni_view_content",
+                "value": "17"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_view_content",
+                "value": "17"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                "value": "3"
+              },
+              {
+                "action_type": "post_reaction",
+                "value": "4"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_custom",
+                "value": "1"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                "value": "2"
+              }
+            ],
+            "cost_per_action_type": [
+              {
+                "action_type": "web_in_store_purchase",
+                "value": "452.455"
+              },
+              {
+                "action_type": "omni_purchase",
+                "value": "452.455"
+              },
+              {
+                "action_type": "initiate_checkout",
+                "value": "452.455"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_custom",
+                "value": "904.91"
+              },
+              {
+                "action_type": "omni_view_content",
+                "value": "53.23"
+              },
+              {
+                "action_type": "offsite_purchase_add_20_s_calls",
+                "value": "452.455"
+              },
+              {
+                "action_type": "video_view",
+                "value": "90.491"
+              },
+              {
+                "action_type": "link_click",
+                "value": "22.62275"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "90.491"
+              },
+              {
+                "action_type": "onsite_conversion.total_messaging_connection",
+                "value": "904.91"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "15.081833"
+              },
+              {
+                "action_type": "onsite_web_initiate_checkout",
+                "value": "452.455"
+              },
+              {
+                "action_type": "onsite_web_purchase",
+                "value": "452.455"
+              },
+              {
+                "action_type": "view_content",
+                "value": "53.23"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "53.23"
+              },
+              {
+                "action_type": "add_to_cart",
+                "value": "301.636667"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "82.264545"
+              },
+              {
+                "action_type": "purchase",
+                "value": "452.455"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "15.081833"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "82.264545"
+              },
+              {
+                "action_type": "omni_initiated_checkout",
+                "value": "452.455"
+              },
+              {
+                "action_type": "omni_add_to_cart",
+                "value": "301.636667"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                "value": "904.91"
+              }
+            ],
+            "video_30_sec_watched_actions": [
+              {
+                "action_type": "video_view",
+                "value": "1"
+              }
+            ]
+          },
+          "by_campaign": {
+            "120239700730940068": {
+              "spend": "904.91",
+              "reach": "3130",
+              "impressions": "3567",
+              "inline_link_clicks": "40",
+              "frequency": "1.139617",
+              "cpm": "253.689375",
+              "cpc": "19.253404",
+              "ctr": "1.317634",
+              "actions": [
+                {
+                  "action_type": "onsite_conversion.total_messaging_connection",
+                  "value": "1"
+                },
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "40"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "60"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "11"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "11"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "60"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "10"
+                },
+                {
+                  "action_type": "onsite_web_app_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "onsite_web_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "10"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "post",
+                  "value": "3"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "3"
+                },
+                {
+                  "action_type": "web_app_in_store_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "4"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "17"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "904.91"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "53.23"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "90.491"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "22.62275"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "90.491"
+                },
+                {
+                  "action_type": "onsite_conversion.total_messaging_connection",
+                  "value": "904.91"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "15.081833"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "53.23"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "53.23"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "301.636667"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "82.264545"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "15.081833"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "82.264545"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "301.636667"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                  "value": "904.91"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                }
+              ],
+              "campaign_name": "TGO Reset- Clarity 1/4/26"
+            }
+          },
+          "by_adset": {
+            "120239700730950068": {
+              "spend": "904.91",
+              "reach": "3130",
+              "impressions": "3567",
+              "inline_link_clicks": "40",
+              "frequency": "1.139617",
+              "cpm": "253.689375",
+              "cpc": "19.253404",
+              "ctr": "1.317634",
+              "actions": [
+                {
+                  "action_type": "onsite_conversion.total_messaging_connection",
+                  "value": "1"
+                },
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "40"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "60"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "11"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "2"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "11"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "60"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "10"
+                },
+                {
+                  "action_type": "onsite_web_app_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "onsite_web_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "10"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "post",
+                  "value": "3"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "3"
+                },
+                {
+                  "action_type": "web_app_in_store_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "4"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "17"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "17"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                  "value": "3"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "904.91"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "53.23"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "90.491"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "22.62275"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "90.491"
+                },
+                {
+                  "action_type": "onsite_conversion.total_messaging_connection",
+                  "value": "904.91"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "15.081833"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "53.23"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "53.23"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "301.636667"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "82.264545"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "15.081833"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "82.264545"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "452.455"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "301.636667"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                  "value": "904.91"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                }
+              ],
+              "adset_name": "Interest based",
+              "campaign_id": "120239700730940068"
+            }
+          },
+          "by_ad": {
+            "120239700730780068": {
+              "spend": "816.61",
+              "reach": "2885",
+              "impressions": "3278",
+              "inline_link_clicks": "37",
+              "frequency": "1.136222",
+              "cpm": "249.118365",
+              "cpc": "18.559318",
+              "ctr": "1.342282",
+              "actions": [
+                {
+                  "action_type": "onsite_conversion.total_messaging_connection",
+                  "value": "1"
+                },
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "37"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "1"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "53"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "1"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "53"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "10"
+                },
+                {
+                  "action_type": "onsite_web_app_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_web_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "10"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post",
+                  "value": "3"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "3"
+                },
+                {
+                  "action_type": "web_app_in_store_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "4"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "6"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                  "value": "2"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_custom",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "68.050833"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "136.101667"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "22.070541"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "81.661"
+                },
+                {
+                  "action_type": "onsite_conversion.total_messaging_connection",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "15.407736"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "68.050833"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "68.050833"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "408.305"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "81.661"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "15.407736"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "81.661"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "816.61"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "408.305"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_started_7d",
+                  "value": "816.61"
+                }
+              ],
+              "ad_name": "Static Ad 17",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239783736610068": {
+              "spend": "88.3",
+              "reach": "283",
+              "impressions": "289",
+              "inline_link_clicks": "3",
+              "frequency": "1.021201",
+              "cpm": "305.536332",
+              "cpc": "29.433333",
+              "ctr": "1.038062",
+              "actions": [
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "3"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "1"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "7"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "1"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "7"
+                },
+                {
+                  "action_type": "onsite_web_app_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_web_add_to_cart",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "5"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "5"
+                },
+                {
+                  "action_type": "web_app_in_store_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_add_to_cart",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "4"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "5"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "5"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_add_to_cart",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_initiate_checkout",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "web_in_store_purchase",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "omni_purchase",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "initiate_checkout",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "17.66"
+                },
+                {
+                  "action_type": "offsite_purchase_add_20_s_calls",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "22.075"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "29.433333"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "12.614286"
+                },
+                {
+                  "action_type": "onsite_web_initiate_checkout",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "onsite_web_purchase",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "17.66"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "17.66"
+                },
+                {
+                  "action_type": "add_to_cart",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "purchase",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "12.614286"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "omni_initiated_checkout",
+                  "value": "88.3"
+                },
+                {
+                  "action_type": "omni_add_to_cart",
+                  "value": "88.3"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                }
+              ],
+              "ad_name": "Static Ad 18",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-04-04",
+      "accounts": {
+        "662108397935596": {
+          "insights": {
+            "spend": "791.34",
+            "reach": "3798",
+            "impressions": "4109",
+            "inline_link_clicks": "34",
+            "frequency": "1.081885",
+            "cpm": "192.587004",
+            "cpc": "19.7835",
+            "ctr": "0.973473",
+            "actions": [
+              {
+                "action_type": "link_click",
+                "value": "34"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "50"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "10"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "10"
+              },
+              {
+                "action_type": "onsite_conversion.post_unlike",
+                "value": "1"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "50"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "11"
+              },
+              {
+                "action_type": "onsite_web_view_content",
+                "value": "12"
+              },
+              {
+                "action_type": "post_interaction_net",
+                "value": "13"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "1"
+              },
+              {
+                "action_type": "onsite_web_app_view_content",
+                "value": "12"
+              },
+              {
+                "action_type": "post",
+                "value": "5"
+              },
+              {
+                "action_type": "onsite_conversion.post_unsave",
+                "value": "1"
+              },
+              {
+                "action_type": "view_content",
+                "value": "12"
+              },
+              {
+                "action_type": "onsite_conversion.post_save",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "1"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_save",
+                "value": "1"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_like",
+                "value": "3"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "12"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "1"
+              },
+              {
+                "action_type": "video_view",
+                "value": "5"
+              },
+              {
+                "action_type": "omni_view_content",
+                "value": "12"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_view_content",
+                "value": "12"
+              },
+              {
+                "action_type": "post_reaction",
+                "value": "4"
+              }
+            ],
+            "cost_per_action_type": [
+              {
+                "action_type": "omni_view_content",
+                "value": "65.945"
+              },
+              {
+                "action_type": "video_view",
+                "value": "158.268"
+              },
+              {
+                "action_type": "link_click",
+                "value": "23.274706"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "71.94"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "15.8268"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                "value": "791.34"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                "value": "791.34"
+              },
+              {
+                "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                "value": "791.34"
+              },
+              {
+                "action_type": "view_content",
+                "value": "65.945"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "65.945"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "79.134"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "15.8268"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "79.134"
+              }
+            ]
+          },
+          "by_campaign": {
+            "120239700730940068": {
+              "spend": "791.34",
+              "reach": "3798",
+              "impressions": "4109",
+              "inline_link_clicks": "34",
+              "frequency": "1.081885",
+              "cpm": "192.587004",
+              "cpc": "19.7835",
+              "ctr": "0.973473",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "34"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "50"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "onsite_conversion.post_unlike",
+                  "value": "1"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "50"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "11"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_conversion.post_unsave",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "3"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "5"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "65.945"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "158.268"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "23.274706"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "71.94"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "15.8268"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                  "value": "791.34"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                  "value": "791.34"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                  "value": "791.34"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "65.945"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "65.945"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "79.134"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "15.8268"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "79.134"
+                }
+              ],
+              "campaign_name": "TGO Reset- Clarity 1/4/26"
+            }
+          },
+          "by_adset": {
+            "120239700730950068": {
+              "spend": "791.34",
+              "reach": "3798",
+              "impressions": "4109",
+              "inline_link_clicks": "34",
+              "frequency": "1.081885",
+              "cpm": "192.587004",
+              "cpc": "19.7835",
+              "ctr": "0.973473",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "34"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "50"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "onsite_conversion.post_unlike",
+                  "value": "1"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "50"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "11"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_conversion.post_unsave",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "3"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "5"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "65.945"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "158.268"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "23.274706"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "71.94"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "15.8268"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                  "value": "791.34"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                  "value": "791.34"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                  "value": "791.34"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "65.945"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "65.945"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "79.134"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "15.8268"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "79.134"
+                }
+              ],
+              "adset_name": "Interest based",
+              "campaign_id": "120239700730940068"
+            }
+          },
+          "by_ad": {
+            "120239700730780068": {
+              "spend": "783.07",
+              "reach": "3767",
+              "impressions": "4073",
+              "inline_link_clicks": "34",
+              "frequency": "1.081232",
+              "cpm": "192.258777",
+              "cpc": "19.57675",
+              "ctr": "0.982077",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "34"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "50"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "10"
+                },
+                {
+                  "action_type": "onsite_conversion.post_unlike",
+                  "value": "1"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "50"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "11"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post",
+                  "value": "5"
+                },
+                {
+                  "action_type": "onsite_conversion.post_unsave",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "3"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "12"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "5"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "12"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "4"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "65.255833"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "156.614"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "23.031471"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "71.188182"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "15.6614"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_2_message_send",
+                  "value": "783.07"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_conversation_replied_7d",
+                  "value": "783.07"
+                },
+                {
+                  "action_type": "onsite_conversion.messaging_user_depth_3_message_send",
+                  "value": "783.07"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "65.255833"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "65.255833"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "78.307"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "15.6614"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "78.307"
+                }
+              ],
+              "ad_name": "Static Ad 17",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239876341250068": {
+              "spend": "8.27",
+              "reach": "36",
+              "impressions": "36",
+              "inline_link_clicks": "0",
+              "frequency": "1",
+              "cpm": "229.722222",
+              "ctr": "0",
+              "ad_name": "Static Ad 19",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-04-05",
+      "accounts": {
+        "662108397935596": {
+          "insights": {
+            "spend": "833.3",
+            "reach": "2111",
+            "impressions": "2334",
+            "inline_link_clicks": "30",
+            "frequency": "1.105637",
+            "cpm": "357.026564",
+            "cpc": "23.808571",
+            "ctr": "1.499572",
+            "actions": [
+              {
+                "action_type": "link_click",
+                "value": "30"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "40"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "13"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "13"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "40"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_web_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "post_interaction_net",
+                "value": "2"
+              },
+              {
+                "action_type": "onsite_web_app_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_like",
+                "value": "2"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "13"
+              },
+              {
+                "action_type": "video_view",
+                "value": "8"
+              },
+              {
+                "action_type": "omni_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "post_reaction",
+                "value": "2"
+              }
+            ],
+            "cost_per_action_type": [
+              {
+                "action_type": "omni_view_content",
+                "value": "64.1"
+              },
+              {
+                "action_type": "video_view",
+                "value": "104.1625"
+              },
+              {
+                "action_type": "link_click",
+                "value": "27.776667"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "416.65"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "20.8325"
+              },
+              {
+                "action_type": "view_content",
+                "value": "64.1"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "64.1"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "64.1"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "20.8325"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "64.1"
+              }
+            ],
+            "video_30_sec_watched_actions": [
+              {
+                "action_type": "video_view",
+                "value": "1"
+              }
+            ]
+          },
+          "by_campaign": {
+            "120239700730940068": {
+              "spend": "833.3",
+              "reach": "2111",
+              "impressions": "2334",
+              "inline_link_clicks": "30",
+              "frequency": "1.105637",
+              "cpm": "357.026564",
+              "cpc": "23.808571",
+              "ctr": "1.499572",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "30"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "40"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "40"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "13"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "8"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "104.1625"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "27.776667"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "416.65"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "20.8325"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "20.8325"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "64.1"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                }
+              ],
+              "campaign_name": "TGO Reset- Clarity 1/4/26"
+            }
+          },
+          "by_adset": {
+            "120239700730950068": {
+              "spend": "833.3",
+              "reach": "2111",
+              "impressions": "2334",
+              "inline_link_clicks": "30",
+              "frequency": "1.105637",
+              "cpm": "357.026564",
+              "cpc": "23.808571",
+              "ctr": "1.499572",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "30"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "40"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "40"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "13"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "8"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "104.1625"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "27.776667"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "416.65"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "20.8325"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "64.1"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "20.8325"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "64.1"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                }
+              ],
+              "adset_name": "Interest based",
+              "campaign_id": "120239700730940068"
+            }
+          },
+          "by_ad": {
+            "120239700730780068": {
+              "spend": "810.19",
+              "reach": "1870",
+              "impressions": "2026",
+              "inline_link_clicks": "28",
+              "frequency": "1.083422",
+              "cpm": "399.896347",
+              "cpc": "24.551212",
+              "ctr": "1.628825",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "28"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "38"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "38"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "13"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "8"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "62.322308"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "101.27375"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "28.935357"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "405.095"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "21.320789"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "62.322308"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "62.322308"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "62.322308"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "21.320789"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "62.322308"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                }
+              ],
+              "ad_name": "Static Ad 17",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239783736610068": {
+              "spend": "23.04",
+              "reach": "295",
+              "impressions": "303",
+              "inline_link_clicks": "2",
+              "frequency": "1.027119",
+              "cpm": "76.039604",
+              "cpc": "11.52",
+              "ctr": "0.660066",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "2"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "2"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "link_click",
+                  "value": "11.52"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "11.52"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "11.52"
+                }
+              ],
+              "ad_name": "Static Ad 18",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239876341250068": {
+              "spend": "0.07",
+              "reach": "5",
+              "impressions": "5",
+              "inline_link_clicks": "0",
+              "frequency": "1",
+              "cpm": "14",
+              "ctr": "0",
+              "ad_name": "Static Ad 19",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "accounts": {
+        "662108397935596": {
+          "insights": {
+            "spend": "442.76",
+            "reach": "1262",
+            "impressions": "1354",
+            "inline_link_clicks": "17",
+            "frequency": "1.0729",
+            "cpm": "327.001477",
+            "cpc": "20.125455",
+            "ctr": "1.624815",
+            "actions": [
+              {
+                "action_type": "link_click",
+                "value": "17"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "235"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "13"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "13"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "235"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "3"
+              },
+              {
+                "action_type": "onsite_web_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "post_interaction_net",
+                "value": "3"
+              },
+              {
+                "action_type": "onsite_web_app_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "onsite_conversion.post_save",
+                "value": "1"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_save",
+                "value": "1"
+              },
+              {
+                "action_type": "onsite_conversion.post_net_like",
+                "value": "2"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "13"
+              },
+              {
+                "action_type": "video_view",
+                "value": "215"
+              },
+              {
+                "action_type": "omni_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_view_content",
+                "value": "13"
+              },
+              {
+                "action_type": "post_reaction",
+                "value": "2"
+              }
+            ],
+            "cost_per_action_type": [
+              {
+                "action_type": "omni_view_content",
+                "value": "34.058462"
+              },
+              {
+                "action_type": "video_view",
+                "value": "2.059349"
+              },
+              {
+                "action_type": "link_click",
+                "value": "26.044706"
+              },
+              {
+                "action_type": "post_interaction_gross",
+                "value": "147.586667"
+              },
+              {
+                "action_type": "post_engagement",
+                "value": "1.884085"
+              },
+              {
+                "action_type": "view_content",
+                "value": "34.058462"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "34.058462"
+              },
+              {
+                "action_type": "landing_page_view",
+                "value": "34.058462"
+              },
+              {
+                "action_type": "page_engagement",
+                "value": "1.884085"
+              },
+              {
+                "action_type": "omni_landing_page_view",
+                "value": "34.058462"
+              }
+            ],
+            "video_30_sec_watched_actions": [
+              {
+                "action_type": "video_view",
+                "value": "53"
+              }
+            ]
+          },
+          "by_campaign": {
+            "120239700730940068": {
+              "spend": "442.76",
+              "reach": "1262",
+              "impressions": "1354",
+              "inline_link_clicks": "17",
+              "frequency": "1.0729",
+              "cpm": "327.001477",
+              "cpc": "20.125455",
+              "ctr": "1.624815",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "17"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "235"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "235"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "13"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "215"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "2.059349"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "26.044706"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "147.586667"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "1.884085"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "1.884085"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "34.058462"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "53"
+                }
+              ],
+              "campaign_name": "TGO Reset- Clarity 1/4/26"
+            }
+          },
+          "by_adset": {
+            "120239700730950068": {
+              "spend": "442.76",
+              "reach": "1262",
+              "impressions": "1354",
+              "inline_link_clicks": "17",
+              "frequency": "1.0729",
+              "cpm": "327.001477",
+              "cpc": "20.125455",
+              "ctr": "1.624815",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "17"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "235"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "235"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "13"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "215"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "13"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "2.059349"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "26.044706"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "147.586667"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "1.884085"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "34.058462"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "1.884085"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "34.058462"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "53"
+                }
+              ],
+              "adset_name": "Interest based",
+              "campaign_id": "120239700730940068"
+            }
+          },
+          "by_ad": {
+            "120239700730780068": {
+              "spend": "280.82",
+              "reach": "579",
+              "impressions": "613",
+              "inline_link_clicks": "11",
+              "frequency": "1.058722",
+              "cpm": "458.107667",
+              "cpc": "18.721333",
+              "ctr": "2.446982",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "11"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "16"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "9"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "9"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "16"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "9"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "9"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "9"
+                },
+                {
+                  "action_type": "onsite_conversion.post_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_save",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "9"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "4"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "9"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "9"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "31.202222"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "70.205"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "25.529091"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "280.82"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "17.55125"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "31.202222"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "31.202222"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "31.202222"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "17.55125"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "31.202222"
+                }
+              ],
+              "ad_name": "Static Ad 17",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239939154820068": {
+              "spend": "145.99",
+              "reach": "527",
+              "impressions": "566",
+              "inline_link_clicks": "3",
+              "frequency": "1.074004",
+              "cpm": "257.932862",
+              "cpc": "29.198",
+              "ctr": "0.883392",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "3"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "215"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "3"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "3"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "215"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "3"
+                },
+                {
+                  "action_type": "post_interaction_net",
+                  "value": "2"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "3"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "3"
+                },
+                {
+                  "action_type": "onsite_conversion.post_net_like",
+                  "value": "2"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "3"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "210"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "3"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "3"
+                },
+                {
+                  "action_type": "post_reaction",
+                  "value": "2"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "48.663333"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "0.69519"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "48.663333"
+                },
+                {
+                  "action_type": "post_interaction_gross",
+                  "value": "72.995"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "0.679023"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "48.663333"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "48.663333"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "48.663333"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "0.679023"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "48.663333"
+                }
+              ],
+              "video_30_sec_watched_actions": [
+                {
+                  "action_type": "video_view",
+                  "value": "53"
+                }
+              ],
+              "ad_name": "Meme ad -2",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            },
+            "120239967848760068": {
+              "spend": "15.95",
+              "reach": "173",
+              "impressions": "175",
+              "inline_link_clicks": "3",
+              "frequency": "1.011561",
+              "cpm": "91.142857",
+              "cpc": "7.975",
+              "ctr": "1.142857",
+              "actions": [
+                {
+                  "action_type": "link_click",
+                  "value": "3"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "4"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "4"
+                },
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "1"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "15.95"
+                },
+                {
+                  "action_type": "video_view",
+                  "value": "15.95"
+                },
+                {
+                  "action_type": "link_click",
+                  "value": "5.316667"
+                },
+                {
+                  "action_type": "post_engagement",
+                  "value": "3.9875"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "15.95"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "15.95"
+                },
+                {
+                  "action_type": "landing_page_view",
+                  "value": "15.95"
+                },
+                {
+                  "action_type": "page_engagement",
+                  "value": "3.9875"
+                },
+                {
+                  "action_type": "omni_landing_page_view",
+                  "value": "15.95"
+                }
+              ],
+              "ad_name": "Static Ad 20",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-04-07",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-09",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "accounts": {
+        "662108397935596": {
+          "insights": {
+            "spend": "0",
+            "reach": "0",
+            "impressions": "0",
+            "inline_link_clicks": "0",
+            "frequency": "0",
+            "actions": [
+              {
+                "action_type": "onsite_web_view_content",
+                "value": "1"
+              },
+              {
+                "action_type": "onsite_web_app_view_content",
+                "value": "1"
+              },
+              {
+                "action_type": "view_content",
+                "value": "1"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "1"
+              },
+              {
+                "action_type": "omni_view_content",
+                "value": "1"
+              },
+              {
+                "action_type": "offsite_conversion.fb_pixel_view_content",
+                "value": "1"
+              }
+            ],
+            "cost_per_action_type": [
+              {
+                "action_type": "omni_view_content",
+                "value": "0"
+              },
+              {
+                "action_type": "view_content",
+                "value": "0"
+              },
+              {
+                "action_type": "offsite_content_view_add_meta_leads",
+                "value": "0"
+              }
+            ]
+          },
+          "by_campaign": {
+            "120239700730940068": {
+              "spend": "0",
+              "reach": "0",
+              "impressions": "0",
+              "inline_link_clicks": "0",
+              "frequency": "0",
+              "actions": [
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "0"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "0"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "0"
+                }
+              ],
+              "campaign_name": "TGO Reset- Clarity 1/4/26"
+            }
+          },
+          "by_adset": {
+            "120239700730950068": {
+              "spend": "0",
+              "reach": "0",
+              "impressions": "0",
+              "inline_link_clicks": "0",
+              "frequency": "0",
+              "actions": [
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "0"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "0"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "0"
+                }
+              ],
+              "adset_name": "Interest based",
+              "campaign_id": "120239700730940068"
+            }
+          },
+          "by_ad": {
+            "120239967848760068": {
+              "spend": "0",
+              "reach": "0",
+              "impressions": "0",
+              "inline_link_clicks": "0",
+              "frequency": "0",
+              "actions": [
+                {
+                  "action_type": "onsite_web_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "onsite_web_app_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "1"
+                },
+                {
+                  "action_type": "omni_view_content",
+                  "value": "1"
+                },
+                {
+                  "action_type": "offsite_conversion.fb_pixel_view_content",
+                  "value": "1"
+                }
+              ],
+              "cost_per_action_type": [
+                {
+                  "action_type": "omni_view_content",
+                  "value": "0"
+                },
+                {
+                  "action_type": "view_content",
+                  "value": "0"
+                },
+                {
+                  "action_type": "offsite_content_view_add_meta_leads",
+                  "value": "0"
+                }
+              ],
+              "ad_name": "Static Ad 20",
+              "adset_id": "120239700730950068",
+              "campaign_id": "120239700730940068"
+            }
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-13",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-15",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-16",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-18",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-20",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-21",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-22",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-23",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-24",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-25",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-26",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-27",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-29",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-04-30",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-05-02",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    },
+    {
+      "date": "2026-05-03",
+      "accounts": {
+        "662108397935596": {
+          "insights": {},
+          "by_campaign": {},
+          "by_adset": {},
+          "by_ad": {}
+        }
+      }
+    }
+  ]
+}

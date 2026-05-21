@@ -1,0 +1,97 @@
+# Master registry — portfolio structure only, NO secrets here
+# Secrets (App ID, App Secret, Token) go in accounts/<slug>.env
+#
+# slug: must match the filename in accounts/ exactly
+#       e.g. slug: "akshay-paliwal" → accounts/akshay-paliwal.env
+# type: internal (your company) | client
+
+portfolios:
+
+  - name: "Akshay Paliwal"
+    slug: "akshay-paliwal"
+    business_id: "3064856583737170"
+    type: internal
+    ad_accounts:
+      - name: "Akshay Ad Account 2"
+        account_id: "313062511167620"
+        page_id: "108460871674882"
+      - name: "Akshay Ad Account 3"
+        account_id: "712185420916907"
+        page_id: "108460871674882"
+
+  - name: "Balenso Ortho by Dr Gowtham Chowdary | Hyderabad"
+    slug: "smitha"
+    business_id: "642875675287510"
+    type: internal
+    ad_accounts:
+      - name: "CHCP Business ADS"
+        account_id: "26519506830994659"
+        page_id: "1049758484894547"
+
+  - name: "Finish Strong Project"
+    slug: "satyam"
+    business_id: "4419473774965372"
+    type: internal
+    ad_accounts:
+      - name: "Finish Strong Project - Ad Account 1"
+        account_id: "1825773848090711"
+        page_id: "1036602796208724"
+
+  - name: "Anshul Dhamande"
+    slug: "anshul"
+    business_id: "1038976596250016"
+    type: internal
+    ad_accounts:
+      - name: "Anshul's Business Account"
+        account_id: "416913530687126"
+        page_id: "231263480070985"
+
+  - name: "Fitness Master"
+    slug: "sourobh"
+    business_id: "2337686976271723"
+    type: internal
+    ad_accounts:
+      - name: "Home Personal Training"
+        account_id: "363939148601799"
+        page_id: "643304938865024"
+
+  - name: "Science Driven Performance"
+    slug: "sdp"
+    business_id: "511713916295445"
+    type: internal
+    ad_accounts:
+      - name: "SDP 3<> VSL"
+        account_id: "1251825776973217"
+        page_id: "110651783646523"
+      - name: "SDP Business Ad Account 2"
+        account_id: "1128418505140110"
+        page_id: "110651783646523"
+
+  - name: "Shilpa Chauhan"
+    slug: "shilpa"
+    business_id: "1118048192946685"
+    type: internal
+    ad_accounts:
+      - name: "Shilpinpire"
+        account_id: "1273123444784523"
+        page_id: "998935323308060"
+
+  - name: "Trainer Goes Online"
+    slug: "suvidhi"
+    business_id: "797082854535948"
+    type: internal
+    ad_accounts:
+      - name: "662108397935596"
+        account_id: "662108397935596"
+        page_id: "102862784729808"
+
+  - name: "Trainer Goes Online"
+    slug: "ankita"
+    business_id: "797082854535948"
+    type: internal
+    ad_accounts:
+      - name: "Ankita account 1"
+        account_id: "1190380679864061"
+        page_id: "910970475434524"
+
+        

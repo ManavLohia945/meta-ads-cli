@@ -1,0 +1,9 @@
+.env
+accounts/*.env
+!accounts/_template.env
+reports/*.json
+reports/*.csv
+reports/*.txt
+__pycache__/
+*.pyc
+.DS_Store

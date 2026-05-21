@@ -1,0 +1,17 @@
+{
+  "mcpServers": {},
+  "hooks": {
+    "Notification": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "powershell",
+            "command": "$n = $input | ConvertFrom-Json -ErrorAction SilentlyContinue; $text = ($n | ConvertTo-Json -Compress 2>$null); if ($text -match 'context|token|window|compact|limit') { '{\"systemMessage\": \"Context window is filling up. Run /session-handoff now to preserve continuity, then /clear to start fresh.\"}' }",
+            "statusMessage": "Checking context window..."
+          }
+        ]
+      }
+    ]
+  }
+}
